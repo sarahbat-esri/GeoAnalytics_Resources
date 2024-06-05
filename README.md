@@ -1,2 +1,3 @@
-# GeoAnalytics_Resources
-Resources for GeoAnalytics
+# Resources for use with GeoAnalytics products
+
+
